@@ -23,6 +23,6 @@ FatalError(_ message:String): Function that immediately stops the execution of o
 
 <img src="main_screen.png" width="250">
 
-###### Main Screen
+###### Alert Message when a word is wrong
 
 <img src="alarm_message.png" width="250">
